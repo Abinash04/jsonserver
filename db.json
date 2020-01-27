@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"client":"RUHBTH_UK","domain":"P0470","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":3309},{"client":"FTMC_OH","domain":"P137","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":1810},{"client":"CHLD_FL","domain":"PROD","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":930},{"client":"MDCH_AE","domain":"PROD","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":2648},{"client":"ATLN_NJ","domain":"P232","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":277},{"client":"TRIN_MI","domain":"A1PRD","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":3919},{"client":"CERN_RWX","domain":"P0224R","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":740},{"client":"BARN_HS","domain":"P67","start_date":"2019-12-28T18:30:00.000+0000","end_date":"2019-12-28T18:30:00.000+0000","spike_key":327},{"client":"ARUP_UT","domain":"P11","start_date":"2019-12-27T18:30:00.000+0000","end_date":"2019-12-27T18:30:00.000+0000","spike_key":250},{"client":"AHS_FL","domain":"P149E","start_date":"2019-12-27T18:30:00.000+0000","end_date":"2019-12-27T18:30:00.000+0000","spike_key":175}]
