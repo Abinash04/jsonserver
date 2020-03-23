@@ -1,0 +1,14 @@
+[
+    {
+        "application": "powerchart.exe",
+        "comment": "sample comment",
+        "endstate": "ntdll.dll",
+        "finger_print_id": 1,
+        "first_cerner_component": "PVWORKING.DLL",
+        "first_cerner_function": "ntdll.dll",
+        "issue_number": "1-133233",
+        "issue_type": "SR",
+        "submitted_by": "AB067240",
+        "submitted_dt_tm": "Mon, 23 Mar 2020 18:21:39 GMT"
+    }
+]
