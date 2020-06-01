@@ -1,0 +1,1640 @@
+[
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "100468|Scheduling Management: DST Operations Jobs and Reports|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "103011|Infection Control Advisor (January 2018)|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104108|Discern Ontology 1.1|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104694|Discern Ontology: Discern Ontology Service 3.1|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104739|Knowledge Solutions|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "105268|Common Utility for Accessibility|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "108315|Task List time frame bar and Task List Properties window displays correct timezone during the DST|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "108898|Patient Accounting: Readme Inactivation Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "109504|MPages (US): Care Management 4.5|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "117151|Task List: Time Frame Bar Updates as Expected|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "118891|PowerOrders and Plans Content 1.7|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "119091|CareConcepts Services|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "120131|Scheduling Management: Canceled Appointments for Deceased Patients Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "124760|Millennium Foundations: Operations Migration Job Of a Job Group Sequencing Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "124829|Person Management: Corrections to 2018.01.01 (September 26th Release)|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126212|Clinical Reporting: 2018.01.04 Corrections|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "127255|HCC: All Status Parameter Added to HealtheIntent Service Call|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "130757|Patient Accounting: Collection Agency Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "131166|PowerChart Specimen Collection: Enhancement for SCP 371|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "131247|Person Management: Corrections 2018.01 November Release|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132541|Database Management|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132543|Emergency Medicine|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132545|Imaging|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132554|Millennium Services: Core|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132555|Millennium Services: Documentation|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132557|Millennium Services: Messaging|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132558|Millennium Services: Orders|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132559|Millennium Services: Pharmacy|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132560|Millennium Services: Registration|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132561|Millennium Services: Scheduling|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132567|Medication Record|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132568|Health Information Management|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132570|Radiology|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132573|Surgery: Anesthesia|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132574|Surgery: Management|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132580|CareCompass|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132586|Revenue Cycle Analytics|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132588|Millennium Web Services MillenniumObjects|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132589|Millennium Web Services CareAware MultiMedia|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132593|Referral Management|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132595|Collections|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132599|PowerChart Framework|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132600|PowerChart Maternity|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132601|PowerForms|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132602|Clinician List|Service",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "135157|Code Set 54 Utility (US Eng): Units of Measure (Jan 2019)|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "135868|Enterprise System Management: 2018.01 and Later|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "135872|Olympus|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "135953|Scheduling Management: Schedule Viewer Day View Corrections|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "136026|PowerForms: Correction for Tasks and DTA Wizard|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "137535|Clinician List: Correction Task List View Tool|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138237|Revenue Cycle Analytics: GSR Extract and Load Operations Jobs Corrections|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138405|Scheduling Management: Code Set Filtering Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138406|RDT: Case Signout Tab 2018.01.02|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138491|Surgical Management: 2018.01.04 Multiple Cases In Case Selection Window Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "139228|Outreach Services: Corrections for OSM Requisition Order Entry and Microbioloyg Result Entry|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "139381|RadNet: Modifying Order Details of an Exam no Longer Reroutes|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140003|Correction for Filtering Inactive Alpha Responses|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140158|Foreign System Interfaces: AP Charting Send Verified Reports Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140342|Stedman's Medical Dictionary (Feb 2019)|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140490|Secondary Claims Will Reflect Manually Added Modifiers|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "141278|RadNet: Modifying Order Details of an Exam no Longer Reroutes|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "141684|Blood Bank Transfusion: Corrected Results Not Displaying on Blood Bank Exception Report|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "142387|Person Management: Correction to Person Combines|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143343|CareAware MultiMedia: Multimedia Manager Date Precision Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144505|Lab: Cumulative Package from Cerner Millennium 2018.01.07 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144506|Blood Bank Transfusion: Cumulative Package from Cerner Millennium 2018.01.07 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144822|PowerChart Maternity: Para and Gravida Counts Update as Expected|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144828|Interactive View Exception Package|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144973|PowerChart Maternity: Onset Date Can Be Current Date|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144974|Scheduling Management Updates with ABN Status in Encounter Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145049|Blood Bank Transfusion: Correct Status for Crossmatched Product Shipped and Received Again|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145309|Blood Bank Transfusion: Correction for Exception Message Displayed for Corrected Product Results|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145472|Discern: Discern Prompt Form Corrections (2018.01)|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145983|Corrections to Product Update Tool and Dispense Routing|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146643|Person Management: Correction to Birthdate Time Zone|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146737|Surgical Management : Corrections for Barcode Reading and Picklist Update Confirmation|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146813|Emergency Medicine: 2018.01.02 Service Release - Functionality Updates|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146831|Surgical Management : Correction for Display of Case-Specific Information in Report Builder|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146846|Microbiology: Correction for Microbiology Result Entry Not Simultaneously Processing Organisms|External-Validation",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "147113|Medication Record: Correction for Medication Administration Wizard|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "147654|General Laboratory: Multiple Laboratory Console Enhancements and Corrections|Content",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "147901|Clinician List: Correction for Position Selection|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "148131|Discern: Birth Gender Passivity Correction in EKS_PT_DEMOGRAPHIC_L (2018.01)|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "148763|Surgical Management: Correction for Pref Card Tab In Appointment Attributes Dialog Box|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "149823|Servers & Services: Pharmacy: Incorrect Waste Information on Fill List Dispenses Correction|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "150125|Emergency Medicine: 2018.01.07 Service Release - Tracking List and Patient Education Updates|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "153027|Corrections to PharmNet Inpatient Formulary Manager|Exception",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99967|Community Solutions|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99968|Electronic Health Record|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99969|Health Information Management|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99970|Imaging|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99971|Lab|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99972|Lab - Blood Bank|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99973|MillenniumObjects and Web Services|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99974|Materials Management|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99975|Pharmacy|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99976|Radiology|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99977|Surgery|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99978|Access Management|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99979|Revenue Cycle|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99980|Community Grid Services|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99981|Programme Reporting|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99982|Millennium UK Configuration|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99983|CareCompass|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99984|Electronic Health Record - Additional Components|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99985|Core Services - Additional Components|Release Update",
+        "Architecture": " ",
+        "Version": "2"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "101855|MDI ROP Default Date/Time Is Incorrect|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104301|Blood Bank Transfusion: Correction for Dispense and Assign Products Slow to Respond|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104815|Patient Accounting: Corrections for the 2018.01.01 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104978|Medication Record: Correction for Trend Dialog Box|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "106439|Olympus: 4.1 Install Schema Update|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "108313|Denominator for Procedure MPages View (May 2018)|Content",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "114055|Person Management: Corrections to 2018.01.01 (July Release)|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "114521|Medication Record: Enhancement for Additional JW Waste Components|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "117650|Person Management: Corrections to 2018.01.01 (August Release)|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "119044|Clinical Reporting|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "119102|Interoperability and Information Exchange|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126295|Oncology|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126301|CareAware Core|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126308|Millennium Web Services Registration|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126312|Imaging: Integration|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "131243|Person Management: Corrections to 2018 Scripts|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132536|Millennium Services: Data Extraction|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132537|Care Coordination|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132544|Millennium Helix|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132546|INet|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132550|Medical Device Integration|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132551|Middleware|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132556|Millennium Services: Eligibility|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132563|Orders|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132564|Inpatient Pharmacy|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132565|Outpatient Pharmacy|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132566|Physician Documentation|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132572|Clinical Inventory Management|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132575|System Integration|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132579|Registration & Scheduling|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132597|Message Center|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132603|Millennium Services: Medication Decision Support|Service",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "134676|Person Management: Corrections 2018.01 December Release|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "135711|Inpatient Pharmacy: Correction to Price Schedules for 2018.01.06|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "137388|Corrections to PharmNet Inpatient Formulary Manager|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "139135|Person Management: Correction to Person Search Encounter Selection|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140004|Medical Device Interfaces: MDI Order Server (SCP 235) Correction for Mixed-Case Months|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140005|Scheduling Management: View Order Information Error Correction|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140972|Person Management: Date/Time Columns Are Not Displayed Correctly in Person or Encounter Search|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "141992|Servers & Services: Messaging: Disable Saved Doc Readme|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "142163|Blood Bank Transfusion: Transfusion Requirements Not Updated After Encounter Move|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143770|Surgical Management: 2018.01 Pick List Confirmation Dialog Box Terminate Correction|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143944|Foreign System Interfaces: Format CVA Correction|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144259|PowerNote: Free Text Delay Correction|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "147112|Radiology Management: PACS to Radiology Management Integration Correction for Hybrid Setup|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "148129|Stedman's Medical Dictionary (April 2019) - VTD File Correction|Content",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "149471|PowerChart Maternity: Para Counts for Automatically Closed Pregnancies|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "149474|Millennium Foundations: Revert Server Retry Logic|Exception",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99966|Core Services|Release Update",
+        "Architecture": " ",
+        "Version": "3"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104508|Person Management: Corrections to 2018.01.01|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "110366|Person Management: Corrections to 2018.01.01-2018.01.02|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "113010|Common Utility for Accessibility|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "121783|Person Management: Corrections to 2018.01.01 (September Release)|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "122020|Cardiovascular Imaging Management: Interpretation Section Expand and Collapse 1-000000155229|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126287|Programme Reporting|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126300|Care Management|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "128252|Person Management: Corrections 2018.01 October Release|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "130674|Patient Accounting: Correction for the 2018.01.03 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132539|PowerTrials|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132542|Discern|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132549|Lab: Blood Bank|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132552|Millennium Foundations|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132553|CareMobile|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132578|Revenue Cycle|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132581|Cardiovascular|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132598|Health Maintenance and Immunizations|Service",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "142171|Charge Servicves: Charge viewer modify charge corrections|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143043|Millennium Services - Scheduling: 2018.01.04 - 2018.01.06 Corrections 03|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145393|Charge Services:2018 Pricing Tool incorrectly modifies the end date of a price schedule row .|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145641|General Laboratory: Start Date and Time Corrections for Activated Future Orders|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146824|General Laboratory: Collections Inquiry and Collection Template Corrections|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146945|Dynamic Documentation: 2018.01.03-2018.01.06 Server Corrections|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "147345|Clinical Reporting: Distirbution 60 Character and Purge Correction|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "149459|PowerChart Framework: Various Corrections|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "150281|PowerChart Maternity: Estimated Gestational Age Field Displayed as Delivered|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "151071|Person Management: Corrections to Person Search|Exception",
+        "Architecture": " ",
+        "Version": "4"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "102085|Distribution Services: PVSDK for 2015.01 RRD Server Provider Letter Conversions|Diagnostic",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "103216|Medication Record: PCA Enhancement Additional Components|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "120060|RevenueCycle - Corrections for 2018.01.01-.03 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "121184|Millennium Foundations: Operations Improvements|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132576|Millennium Services: Results|Service",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138637|Cerner SkyVue Distribution|Generic Service",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "138862|Revenue Cycle: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140348|Millennium Services - Scheduling: 2018.01.01 - 2018.01.03 Corrections 01|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143344|Infection Control: February 2019|Content",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144189|Blood Bank Transfusion: Correct Status for Crossmatched Product Shipped and Received Again|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "150515|Revenue Cycle: 2018.01.06 Service Release Corrections|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "152188|Revenue Cycle: Corrections 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "93228|Web/SMART Custom MPage Component|Content",
+        "Architecture": " ",
+        "Version": "5"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "102997|Physician Innovation|Service",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104050|CareAware iAware Platform 7.5.1|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104797|General Laboratory: Correction for Birth Date Formatting Errors|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "105693|Distribution Services: RRD Zetafax Stability|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "106291|Person Management: Corrections to 2018.01.01|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "112856|CareAware: Stand-Alone Device Association 2.2.1|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "124599|Millennium Web Services Core 4.4|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132548|Lab|Service",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "132562|CareAware MultiMedia|Service",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "142543|Person Management: Corrections 2018.01 February 2019 Release|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "143773|Patient Accounting: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "148762|Person Management: Corrections 2018.01 April 2019 Release|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "150990|Revenue Cycle: Corrections 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "153677|Charge Services: Charge Viewer Filter Options Apply Button|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "99754|Distribution Services: RRD 2018.01 Compatibility|Exception",
+        "Architecture": " ",
+        "Version": "6"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "117803|Security Architecture: 32-bit CernSecurity Control for Cerner Millennium 2018.01|Exception",
+        "Architecture": " ",
+        "Version": "7"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "119077|RxStation|Service",
+        "Architecture": " ",
+        "Version": "7"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "145718|Person Management: Corrections 2018.01 March 2019 Release|Exception",
+        "Architecture": " ",
+        "Version": "7"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146822|Patient Accounting: Corrections for 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "7"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "102993|Millennium Web Services Documentation & Results|Service",
+        "Architecture": " ",
+        "Version": "8"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "134674|Revenue Cycle Registration: Correction to Submit All Eligibilities Button|Exception",
+        "Architecture": " ",
+        "Version": "8"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "139388|Person Management: Corrections 2018.01 January 2019 Release|Exception",
+        "Architecture": " ",
+        "Version": "8"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "146315|Revenue Cycle: Corrections for 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "8"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "149145|Patient Accounting: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "8"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104484|CareAware Infusion Management 8.1|Exception",
+        "Architecture": " ",
+        "Version": "9"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "125353|Cardiovascular Imaging Management: Cardiology Viewer 4.2.2 CV1.0|Exception",
+        "Architecture": " ",
+        "Version": "9"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "136577|Bridge Transfusion, Specimen, and Breast Milk|Generic Release Update",
+        "Architecture": " ",
+        "Version": "9"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "137774|Patient Accounting: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "9"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "131319|System Infrastructure: Remove Heap Setting Updates From SCP .INI Files|Exception",
+        "Architecture": " ",
+        "Version": "10"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "103422|System Infrastructure: Enterprise Java Server Minimize Resource Utilization|Exception",
+        "Architecture": " ",
+        "Version": "11"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "104984|Patient Accounting: Enhancements and Corrections for the 2018.01.01 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "11"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "133623|Patient Accounting: Transaction Posting Matrix Tool Correction|Exception",
+        "Architecture": " ",
+        "Version": "11"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "140646|Revenue Cycle: Corrections for 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "11"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "142094|Revenue Cycle: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "11"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "123266|Patient Accounting: Enhancements and Corrections for 2018.01.03 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "12"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "70672|Infection Control Ventilator-Associated Events Worklist (May 2017)|Content",
+        "Architecture": " ",
+        "Version": "12"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "126632|Patient Accounting: Enhancements and Corrections for the 2018.01.03 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "15"
+    },
+    {
+        "Source": "Cerner Packages",
+        "Pkg_Install_dttm": "2019-06-09T08:04:47.000+0000",
+        "Description": "144030|Revenue Cycle: Corrections for the 2018.01.06 Service Release|Exception",
+        "Architecture": " ",
+        "Version": "15"
+    }
+]
